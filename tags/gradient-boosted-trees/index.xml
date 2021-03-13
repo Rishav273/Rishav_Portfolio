@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gradient boosted trees on Rishav Majumdar</title>
+    <link>https://Rishav273.github.io/Rishav_Portfolio/tags/gradient-boosted-trees/</link>
+    <description>Recent content in gradient boosted trees on Rishav Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://Rishav273.github.io/Rishav_Portfolio/tags/gradient-boosted-trees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patient Diabetes Classifier</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 02 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-1/</guid>
+      <description>This is the first predictive modelling project that I worked on. A classification model that predicts whether a patient is diabetic based on factors like:
+ Insulin levels Blood Pressure levels Age Pregnancies (if any) Skin thickness Gender Body Mass Index  Several classification models were used. The finalized model was a Gradient Boost Classifier which gave 88% accuracy with some fine-tuning.
+Github repository for the project:
+https://github.com/Rishav273/Diabetes-classifier</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Projects on Rishav Majumdar</title>
+    <link>https://Rishav273.github.io/Rishav_Portfolio/post/</link>
+    <description>Recent content in Personal Projects on Rishav Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://Rishav273.github.io/Rishav_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid-19 Tweet Sentiment Classifier</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 08 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-4/</guid>
+      <description>In this project I created a sentiment classifier for tweets related to the Covid-19 pandemic. Specifically, the classifier takes a tweet as an input and predicts whether the tweet has a positive, negative or neutral sentiment.
+2 models have been trained on the dataset - A deep Bidirectional LSTM network with dropout layers and a Deep Convolutional Neural Net, which gave better performance metrics.
+Github repository for the project:
+https://github.com/Rishav273/Covid-19-Tweet-Sentiment</description>
+    </item>
+    
+    <item>
+      <title>Recommender System for Anime</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 20 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-2/</guid>
+      <description>In this project I created a content based recommendation engine for Japanese Animated shows. The engine can take animated TV-shows, movies, OVAs or music videos as input, and returns 10 shows that are most similar to the anime by genre. Sigmoid kernel was used to create the similarity matrix.
+The dataset was taken from Kaggle. It was scraped from MyAnimeList.net, which is the most popular anime forum on the internet. More information about the dataset is available in the github repo.</description>
+    </item>
+    
+    <item>
+      <title>Predictive Model that estimates customer churn.</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 06 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-3/</guid>
+      <description>In this project I created a predictive machine learning model that estimates whether a specific bank customer will leave the bank. The model takes into account several features:
+ The specific geographical location in Europe. Customer&amp;rsquo;s Credit Score. Estimated Salary. Gender Age Availability of Credit card Whether the customer is active.  Several models were trained, out of which an Artificial Neural Net gave the best metrics. Accuracy was chosen as a performance metric since there wasn&amp;rsquo;t much imbalance between the classes.</description>
+    </item>
+    
+    <item>
+      <title>Patient Diabetes Classifier</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 02 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-1/</guid>
+      <description>This is the first predictive modelling project that I worked on. A classification model that predicts whether a patient is diabetic based on factors like:
+ Insulin levels Blood Pressure levels Age Pregnancies (if any) Skin thickness Gender Body Mass Index  Several classification models were used. The finalized model was a Gradient Boost Classifier which gave 88% accuracy with some fine-tuning.
+Github repository for the project:
+https://github.com/Rishav273/Diabetes-classifier</description>
+    </item>
+    
+  </channel>
+</rss>

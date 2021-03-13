@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sigmoid Similarity on Rishav Majumdar</title>
+    <link>https://Rishav273.github.io/Rishav_Portfolio/tags/sigmoid-similarity/</link>
+    <description>Recent content in Sigmoid Similarity on Rishav Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://Rishav273.github.io/Rishav_Portfolio/tags/sigmoid-similarity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommender System for Anime</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 20 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-2/</guid>
+      <description>In this project I created a content based recommendation engine for Japanese Animated shows. The engine can take animated TV-shows, movies, OVAs or music videos as input, and returns 10 shows that are most similar to the anime by genre. Sigmoid kernel was used to create the similarity matrix.
+The dataset was taken from Kaggle. It was scraped from MyAnimeList.net, which is the most popular anime forum on the internet. More information about the dataset is available in the github repo.</description>
+    </item>
+    
+  </channel>
+</rss>

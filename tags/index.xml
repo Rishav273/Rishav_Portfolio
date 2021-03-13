@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rishav Majumdar</title>
+    <link>https://Rishav273.github.io/Rishav_Portfolio/tags/</link>
+    <description>Recent content in Tags on Rishav Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://Rishav273.github.io/Rishav_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/deep-learning/</link>
+      <pubDate>Mon, 08 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural Language Processing</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/natural-language-processing/</link>
+      <pubDate>Mon, 08 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation engine</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/recommendation-engine/</link>
+      <pubDate>Wed, 20 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/recommendation-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigmoid Similarity</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/sigmoid-similarity/</link>
+      <pubDate>Wed, 20 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/sigmoid-similarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bank churn prediction</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/bank-churn-prediction/</link>
+      <pubDate>Wed, 06 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/bank-churn-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/machine-learning/</link>
+      <pubDate>Wed, 06 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictive modelling</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/predictive-modelling/</link>
+      <pubDate>Wed, 06 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/predictive-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classification problem</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/classification-problem/</link>
+      <pubDate>Sat, 02 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/classification-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gradient boosted trees</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/gradient-boosted-trees/</link>
+      <pubDate>Sat, 02 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/gradient-boosted-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forests</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/tags/random-forests/</link>
+      <pubDate>Sat, 02 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/tags/random-forests/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Rishav Majumdar</title>
+    <link>https://Rishav273.github.io/Rishav_Portfolio/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Rishav Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://Rishav273.github.io/Rishav_Portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid-19 Tweet Sentiment Classifier</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 08 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-4/</guid>
+      <description>In this project I created a sentiment classifier for tweets related to the Covid-19 pandemic. Specifically, the classifier takes a tweet as an input and predicts whether the tweet has a positive, negative or neutral sentiment.
+2 models have been trained on the dataset - A deep Bidirectional LSTM network with dropout layers and a Deep Convolutional Neural Net, which gave better performance metrics.
+Github repository for the project:
+https://github.com/Rishav273/Covid-19-Tweet-Sentiment</description>
+    </item>
+    
+  </channel>
+</rss>

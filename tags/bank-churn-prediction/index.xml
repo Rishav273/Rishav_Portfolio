@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bank churn prediction on Rishav Majumdar</title>
+    <link>https://Rishav273.github.io/Rishav_Portfolio/tags/bank-churn-prediction/</link>
+    <description>Recent content in Bank churn prediction on Rishav Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://Rishav273.github.io/Rishav_Portfolio/tags/bank-churn-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predictive Model that estimates customer churn.</title>
+      <link>https://Rishav273.github.io/Rishav_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 06 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Rishav273.github.io/Rishav_Portfolio/post/project-3/</guid>
+      <description>In this project I created a predictive machine learning model that estimates whether a specific bank customer will leave the bank. The model takes into account several features:
+ The specific geographical location in Europe. Customer&amp;rsquo;s Credit Score. Estimated Salary. Gender Age Availability of Credit card Whether the customer is active.  Several models were trained, out of which an Artificial Neural Net gave the best metrics. Accuracy was chosen as a performance metric since there wasn&amp;rsquo;t much imbalance between the classes.</description>
+    </item>
+    
+  </channel>
+</rss>
